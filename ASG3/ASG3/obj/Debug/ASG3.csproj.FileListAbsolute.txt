@@ -1,0 +1,9 @@
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\bin\Debug\ASG3.exe.config
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\bin\Debug\ASG3.exe
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\bin\Debug\ASG3.pdb
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\obj\Debug\ASG3.csprojAssemblyReference.cache
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\obj\Debug\ASG3.Properties.Resources.resources
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\obj\Debug\ASG3.csproj.GenerateResource.cache
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\obj\Debug\ASG3.csproj.CoreCompileInputs.cache
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\obj\Debug\ASG3.exe
+D:\Document\Subjects\PRN292\source\repos\ASG3\ASG3\obj\Debug\ASG3.pdb
